@@ -7,3 +7,12 @@ C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\BenivoProject.Domain.Core\o
 C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.dll
 C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.pdb
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.deps.json
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.dll
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.pdb
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.AssemblyInfo.cs
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.dll
+C:\Users\USER\source\repos\BenivoProject\src\BenivoProject.Domain.Core\obj\Debug\netcoreapp3.1\BenivoProject.Domain.Core.pdb

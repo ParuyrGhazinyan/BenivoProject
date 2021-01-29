@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVNrglUYuWsy1sc3KnsX43tGJd9SoYVKYmJpN/lhUFtj/oeaOLIzqsVOzuj7lArgBfbHoMPA8lMT9BFGzrxb7A==",
+  "dgSpecHash": "dHjSAwSZmVY3UsHG1PCs8hPHb01lEVK9akEswr8KAjvARWwfVsuY7PeapcN1zmMSYulGsR6Tg/Su9KHoAf9h6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

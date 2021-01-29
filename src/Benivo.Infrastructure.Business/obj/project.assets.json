@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Business\\Benivo.Infrastructure.Business.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Business\\Benivo.Infrastructure.Business.csproj",
       "projectName": "Benivo.Infrastructure.Business",
-      "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Business\\Benivo.Infrastructure.Business.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Business\\Benivo.Infrastructure.Business.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Business\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -159,8 +159,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Services.Interfaces\\Benivo.Services.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Services.Interfaces\\Benivo.Services.Interfaces.csproj"
+            "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Services.Interfaces\\Benivo.Services.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Services.Interfaces\\Benivo.Services.Interfaces.csproj"
             }
           }
         }

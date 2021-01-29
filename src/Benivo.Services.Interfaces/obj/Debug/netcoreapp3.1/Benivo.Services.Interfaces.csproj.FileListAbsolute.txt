@@ -12,3 +12,17 @@ C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Services.Interfaces\
 C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.csproj.CopyComplete
 C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.dll
 C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.pdb
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\Benivo.Services.Interfaces.deps.json
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\Benivo.Services.Interfaces.dll
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\Benivo.Services.Interfaces.pdb
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.dll
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Interfaces.dll
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.pdb
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Interfaces.pdb
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.AssemblyInfo.cs
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.csproj.CopyComplete
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.dll
+C:\Users\USER\source\repos\BenivoProject\src\Benivo.Services.Interfaces\obj\Debug\netcoreapp3.1\Benivo.Services.Interfaces.pdb

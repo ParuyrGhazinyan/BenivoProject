@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj": {
+    "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj",
         "projectName": "Benivo.Infrastructure.Data",
-        "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Data\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj"
+              "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj"
               },
-              "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj"
+              "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj": {
+    "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj",
         "projectName": "BenivoProject.Domain.Core",
-        "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj": {
+    "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj",
         "projectName": "BenivoProject.Domain.Interfaces",
-        "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -167,8 +167,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj"
+              "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "doSEQUnmPGP4eF7IIVK4GJANqPQR6Xg9UPiBZgM4630Aj1FsTNxdt2Kyrkl5cNK9svACImL0MdztuqIuj2DhpQ==",
+  "dgSpecHash": "5ENm7c9+NAgg5SZdQmBkm8O/KXFW2HpsO7grqjebT5Nl1xjl1mCAmradzNRdStgMEI9142Y67Aqwsh4pBBpsLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

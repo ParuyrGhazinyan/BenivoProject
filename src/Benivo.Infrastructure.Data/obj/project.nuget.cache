@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17gGCoBa6ROtjT2l/ovGRwrhDTX431FVI7cgzfzIB9IwNu0s8hOI/HIceMoysQgSbJK6s7Vs7lqpzXW4iWv8xg==",
+  "dgSpecHash": "YFk24Bip6xMVrxvltVMgVmjw42ewmwV5ADdUIqRlbJ14Z6hyKpvvLtUXoGTS/TCq62K8BQTjFQviOtBcOvrXYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\BenivoProject\\src\\Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

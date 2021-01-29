@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ie+HDv7LhQiP3TjjkjRnRaqaBBP8y4oBr07mdlSGNNnkjRZDANF6rcTtpebNQrG+EMQ54G6JJ0OCg1GTjtIjFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\Workspaces\\Benivo\\BenivoProject\\Benivo.Infrastructure.Business\\Benivo.Infrastructure.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BenivoProject.Domain.Core/1.0.0": {
+        "runtime": {
+          "BenivoProject.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BenivoProject.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

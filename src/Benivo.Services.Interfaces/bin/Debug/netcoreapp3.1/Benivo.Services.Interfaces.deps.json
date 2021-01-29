@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Benivo.Services.Interfaces/1.0.0": {
+        "dependencies": {
+          "BenivoProject.Domain.Core": "1.0.0",
+          "BenivoProject.Domain.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Benivo.Services.Interfaces.dll": {}
+        }
+      },
+      "BenivoProject.Domain.Core/1.0.0": {
+        "runtime": {
+          "BenivoProject.Domain.Core.dll": {}
+        }
+      },
+      "BenivoProject.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "BenivoProject.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "BenivoProject.Domain.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Benivo.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BenivoProject.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BenivoProject.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

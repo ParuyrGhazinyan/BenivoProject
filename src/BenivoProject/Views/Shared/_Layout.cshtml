@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>@ViewData["Title"] - BenivoProject</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/lib/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="~/lib/toastr/toastr.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/adminlte.css" rel="stylesheet">
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+        <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+            <ul class="navbar-nav ml-auto">
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item mr-5">
+                        You are Logged In
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-secondary" href="/User/Logout">
+                            LogOut
+                        </a>
+                    </li> }
+                                else
+                                {
+                    <li class="nav-item">
+
+                        <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button" type="button" data-toggle="modal" data-target="#modal-login">
+                            <span>LogIn</span><i class="fas fa-sign-in-alt ml-2"></i>
+                        </a>
+                    </li>
+}
+            </ul>
+        </nav>
+
+        @RenderBody()
+        <footer class="main-footer">
+            <strong>Copyright &copy; 2021 <a href="https://www.benivo.com/">Benivo.com</a>.</strong>            
+        </footer>
+    </div>
+
+    <div class="modal fade" id="modal-login">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Login</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form asp-action="Login" asp-controller="User" asp-anti-forgery="true">
+                    <div class="modal-body">
+                        <div>
+                            <div class="form-group">
+                                <input class="form-control" type="text" placeholder="Username" name="UserName" />
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" type="password" placeholder="Password" name="Password" />
+                            </div>
+                            <span><a href="#" onclick="TogleModals()">Register a new membership </a> </span>
+                        </div>
+                    </div>
+                    <div class="modal-footer justify-content-between">
+                        <div class="form-group btn btn-xs btn-info">
+                            <input type="submit" value="Login" class="btn" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="modal-registre">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Register</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form asp-action="Register" asp-controller="User" asp-anti-forgery="true">
+                    <div class="modal-body">
+                        <div>
+                            <div class="form-group">
+                                <input class="form-control" type="text" placeholder="Username" name="UserName" />
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" type="password" placeholder="Password" name="Password" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer justify-content-between">
+                        <div class="form-group btn btn-xs btn-info">
+                            <input type="submit" value="Sign In" class="btn" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-ui/jquery-ui.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="~/lib/toastr/toastr.min.js"></script>
+    <script src="~/js/adminlte.js"></script>
+    <script src="~/js/site.js"></script>
+    <script>
+        function TogleModals() {
+            $("#modal-login").modal("hide")
+            $("#modal-registre").modal("show")
+        }
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

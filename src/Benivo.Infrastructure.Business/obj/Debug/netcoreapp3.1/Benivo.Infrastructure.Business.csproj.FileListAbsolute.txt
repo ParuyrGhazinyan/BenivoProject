@@ -1,0 +1,16 @@
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.deps.json
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.dll
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.pdb
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\Benivo.Services.Interfaces.dll
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.dll
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Interfaces.dll
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\Benivo.Services.Interfaces.pdb
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Core.pdb
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\bin\Debug\netcoreapp3.1\BenivoProject.Domain.Interfaces.pdb
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.csprojAssemblyReference.cache
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.AssemblyInfo.cs
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.csproj.CopyComplete
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.dll
+C:\Users\USER\Source\Workspaces\Benivo\BenivoProject\Benivo.Infrastructure.Business\obj\Debug\netcoreapp3.1\Benivo.Infrastructure.Business.pdb

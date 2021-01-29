@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenivoProject", "BenivoProject\BenivoProject.csproj", "{EA3985AA-63B0-4660-A192-57CA944D9ECE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{40E6B266-8E29-4EB8-918D-C7B33969AA60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenivoProject.Domain.Core", "BenivoProject.Domain.Core\BenivoProject.Domain.Core.csproj", "{DE1E4DBE-8B9B-48B5-B3A7-7E23797D236E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{3BC26978-69A5-43A7-8E1C-161EBF20AC0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenivoProject.Domain.Interfaces", "BenivoProject.Domain.Interfaces\BenivoProject.Domain.Interfaces.csproj", "{F47722B6-47A6-47B5-A993-FFC622661FCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benivo.Infrastructure.Business", "Benivo.Infrastructure.Business\Benivo.Infrastructure.Business.csproj", "{7ACBD271-162C-43D7-A800-D43CC35B6835}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benivo.Infrastructure.Data", "Benivo.Infrastructure.Data\Benivo.Infrastructure.Data.csproj", "{8589FB39-916D-417C-BAC0-134CF295507B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{04B94651-A03F-4772-A44C-5A6933A89499}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benivo.Services.Interfaces", "Benivo.Services.Interfaces\Benivo.Services.Interfaces.csproj", "{D3F0D7F2-A2B5-442F-AEE9-39DBB5DA510F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3985AA-63B0-4660-A192-57CA944D9ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3985AA-63B0-4660-A192-57CA944D9ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3985AA-63B0-4660-A192-57CA944D9ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3985AA-63B0-4660-A192-57CA944D9ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1E4DBE-8B9B-48B5-B3A7-7E23797D236E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1E4DBE-8B9B-48B5-B3A7-7E23797D236E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1E4DBE-8B9B-48B5-B3A7-7E23797D236E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1E4DBE-8B9B-48B5-B3A7-7E23797D236E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47722B6-47A6-47B5-A993-FFC622661FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47722B6-47A6-47B5-A993-FFC622661FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47722B6-47A6-47B5-A993-FFC622661FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47722B6-47A6-47B5-A993-FFC622661FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACBD271-162C-43D7-A800-D43CC35B6835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACBD271-162C-43D7-A800-D43CC35B6835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACBD271-162C-43D7-A800-D43CC35B6835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACBD271-162C-43D7-A800-D43CC35B6835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8589FB39-916D-417C-BAC0-134CF295507B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8589FB39-916D-417C-BAC0-134CF295507B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8589FB39-916D-417C-BAC0-134CF295507B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8589FB39-916D-417C-BAC0-134CF295507B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F0D7F2-A2B5-442F-AEE9-39DBB5DA510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F0D7F2-A2B5-442F-AEE9-39DBB5DA510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F0D7F2-A2B5-442F-AEE9-39DBB5DA510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F0D7F2-A2B5-442F-AEE9-39DBB5DA510F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DE1E4DBE-8B9B-48B5-B3A7-7E23797D236E} = {40E6B266-8E29-4EB8-918D-C7B33969AA60}
+		{F47722B6-47A6-47B5-A993-FFC622661FCA} = {40E6B266-8E29-4EB8-918D-C7B33969AA60}
+		{7ACBD271-162C-43D7-A800-D43CC35B6835} = {3BC26978-69A5-43A7-8E1C-161EBF20AC0D}
+		{8589FB39-916D-417C-BAC0-134CF295507B} = {3BC26978-69A5-43A7-8E1C-161EBF20AC0D}
+		{D3F0D7F2-A2B5-442F-AEE9-39DBB5DA510F} = {04B94651-A03F-4772-A44C-5A6933A89499}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854ADA5A-7E26-4300-99DF-48810804D789}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/paruyrghazinyan
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BenivoProject\\BenivoProject.csproj
+		SccProjectName1 = BenivoProject
+		SccLocalPath1 = BenivoProject
+		SccProjectUniqueName2 = BenivoProject.Domain.Interfaces\\BenivoProject.Domain.Interfaces.csproj
+		SccProjectTopLevelParentUniqueName2 = BenivoProject.sln
+		SccProjectName2 = BenivoProject.Domain.Interfaces
+		SccLocalPath2 = BenivoProject.Domain.Interfaces
+		SccProjectUniqueName3 = Benivo.Infrastructure.Business\\Benivo.Infrastructure.Business.csproj
+		SccProjectTopLevelParentUniqueName3 = BenivoProject.sln
+		SccProjectName3 = Benivo.Infrastructure.Business
+		SccLocalPath3 = Benivo.Infrastructure.Business
+		SccProjectUniqueName4 = Benivo.Infrastructure.Data\\Benivo.Infrastructure.Data.csproj
+		SccProjectTopLevelParentUniqueName4 = BenivoProject.sln
+		SccProjectName4 = Benivo.Infrastructure.Data
+		SccLocalPath4 = Benivo.Infrastructure.Data
+		SccProjectUniqueName5 = Benivo.Services.Interfaces\\Benivo.Services.Interfaces.csproj
+		SccProjectTopLevelParentUniqueName5 = BenivoProject.sln
+		SccProjectName5 = Benivo.Services.Interfaces
+		SccLocalPath5 = Benivo.Services.Interfaces
+		SccProjectUniqueName6 = BenivoProject.Domain.Core\\BenivoProject.Domain.Core.csproj
+		SccProjectTopLevelParentUniqueName6 = BenivoProject.sln
+		SccProjectName6 = BenivoProject.Domain.Core
+		SccLocalPath6 = BenivoProject.Domain.Core
+	EndGlobalSection
+EndGlobal
